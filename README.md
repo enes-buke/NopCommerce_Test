@@ -51,11 +51,4 @@ Run 'NopCmrAllCases'
 or Run XML configuration
 
 XML -> CaseEditor.xml
-
-Used Repositories
-------------------------
-Package -Description
-TestNG - Next Generation Testing Tool.
-Selenium - Browser Automation Framework.
-commons.io - The Apache Commons IO library
 ****************
