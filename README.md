@@ -5,16 +5,17 @@ Techno Study Group8 Friday project.
 Domain -> https://demo.nopcommerce.com
 
 ------------------
-Collaborators
-Enes BÜKE -- Team Lead
+🔶 Collaborators
 
-Alperen ŞANLI -- Tester
+🛑Enes BÜKE -- Team Lead
 
-Sinem YURDUSEVER -- Tester
+🛑Alperen ŞANLI -- Tester
 
-Murat ENGİNEL -- Tester
+🛑Sinem YURDUSEVER -- Tester
 
-Fatih GÜVENÇ -- Tester
+🛑Murat ENGİNEL -- Tester
+
+🛑Fatih GÜVENÇ -- Tester
 
 File Project From Version Control
 Copy to URL
