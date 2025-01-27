@@ -16,9 +16,9 @@ Fatih GÜVENÇ -- Tester
 
 File Project From Version Control
 Copy to URL
+
 -------------------------
-git@github.com:enesbuke/Project.noCommerce.git
--------------------------
+
 open project at Intellij
 select project JDK
 
